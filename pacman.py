@@ -1,7 +1,7 @@
 from turtle import *
 
 def func_a():
-    from pacman_game import Screen
+    from screen import Screen
     func_a()
 
 class Pacman:
